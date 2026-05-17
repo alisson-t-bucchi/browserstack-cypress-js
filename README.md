@@ -1,4 +1,4 @@
-# README.md — Projeto de Automação de Testes com Cypress + BrowserStack Demo
+# Projeto de Automação de Testes com Cypress + BrowserStack Demo
 
 ![Cypress](https://img.shields.io/badge/Cypress-E2E-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
