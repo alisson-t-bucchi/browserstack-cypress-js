@@ -1,0 +1,77 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Cypress cache
+Cypress/
+.cypress-cache/
+
+# Mochawesome reports
+cypress/reports/
+mochawesome-report/
+mochawesome.json
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Build folders
+dist/
+build/
+
+# Package lock optional
+# package-lock.json
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Windows
+ehthumbs.db
+Desktop.ini
+
+# Test artifacts
+*.mp4
+*.png
+
+# Allure Reports (future integration)
+allure-results/
+allure-report/
+
+# Cypress environment config
+cypress.env.json
